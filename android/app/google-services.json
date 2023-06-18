@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "470199704264",
+    "project_id": "last-last-66340",
+    "storage_bucket": "last-last-66340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470199704264:android:070035e9ea2cb92650a3fd",
+        "android_client_info": {
+          "package_name": "com.example.maibon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470199704264-8elks3g5f9am73uqp2qqfj5pqrca7if3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maibon",
+            "certificate_hash": "d92c91efeb1a8397a91c4168b9d2a2309d0531db"
+          }
+        },
+        {
+          "client_id": "470199704264-mq4s1q7g1a33al21mj2tal59kmig95b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_Fw550eB-cOQlJ0tYA-eUSLdi2OQ9mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470199704264-mq4s1q7g1a33al21mj2tal59kmig95b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470199704264-bsvrtqcv9pemsbkc0poj987lkbikgqof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maibon.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
